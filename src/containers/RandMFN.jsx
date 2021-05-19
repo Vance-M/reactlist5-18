@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react'
+import Character from '../components/characters/characters';
 import CharactersList from '../components/characters/charactersList';
 import { fetchCharacters } from '../services/apiUtils';
 
@@ -14,7 +15,14 @@ const RickandMorty = () => {
     
     if(loading) return <p>Loading...</p>
 
-    return <CharactersList characters={characters} />;
+    return <CharactersList 
+    characters={characters} 
+    // name={Character.name}
+    // id={Character.id}
+    // species={Character.species}
+    // status={Character.status}
+    // image={Character.image}
+    />;
 };
 
 export default RickandMorty;

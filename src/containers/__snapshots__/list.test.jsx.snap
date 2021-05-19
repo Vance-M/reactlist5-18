@@ -6,10 +6,14 @@ exports[`Rick and Morty Character container fetches a list of Rick and Morty cha
 >
   <li>
     <figure>
-      <img
-        alt="Rick Sanchez"
-        src="https://rickandmortyapi.com/api/character/avatar/1.jpeg"
-      />
+      <a
+        href="/1"
+      >
+        <img
+          alt="Rick Sanchez"
+          src="https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+        />
+      </a>
       <figcaption>
         <p>
           Rick Sanchez
@@ -25,10 +29,14 @@ exports[`Rick and Morty Character container fetches a list of Rick and Morty cha
   </li>
   <li>
     <figure>
-      <img
-        alt="Morty Smith"
-        src="https://rickandmortyapi.com/api/character/avatar/2.jpeg"
-      />
+      <a
+        href="/2"
+      >
+        <img
+          alt="Morty Smith"
+          src="https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+        />
+      </a>
       <figcaption>
         <p>
           Morty Smith
@@ -44,10 +52,14 @@ exports[`Rick and Morty Character container fetches a list of Rick and Morty cha
   </li>
   <li>
     <figure>
-      <img
-        alt="Summer Smith"
-        src="https://rickandmortyapi.com/api/character/avatar/3.jpeg"
-      />
+      <a
+        href="/3"
+      >
+        <img
+          alt="Summer Smith"
+          src="https://rickandmortyapi.com/api/character/avatar/3.jpeg"
+        />
+      </a>
       <figcaption>
         <p>
           Summer Smith
@@ -63,10 +75,14 @@ exports[`Rick and Morty Character container fetches a list of Rick and Morty cha
   </li>
   <li>
     <figure>
-      <img
-        alt="Beth Smith"
-        src="https://rickandmortyapi.com/api/character/avatar/4.jpeg"
-      />
+      <a
+        href="/4"
+      >
+        <img
+          alt="Beth Smith"
+          src="https://rickandmortyapi.com/api/character/avatar/4.jpeg"
+        />
+      </a>
       <figcaption>
         <p>
           Beth Smith
@@ -82,10 +98,14 @@ exports[`Rick and Morty Character container fetches a list of Rick and Morty cha
   </li>
   <li>
     <figure>
-      <img
-        alt="Jerry Smith"
-        src="https://rickandmortyapi.com/api/character/avatar/5.jpeg"
-      />
+      <a
+        href="/5"
+      >
+        <img
+          alt="Jerry Smith"
+          src="https://rickandmortyapi.com/api/character/avatar/5.jpeg"
+        />
+      </a>
       <figcaption>
         <p>
           Jerry Smith
@@ -101,10 +121,14 @@ exports[`Rick and Morty Character container fetches a list of Rick and Morty cha
   </li>
   <li>
     <figure>
-      <img
-        alt="Abadango Cluster Princess"
-        src="https://rickandmortyapi.com/api/character/avatar/6.jpeg"
-      />
+      <a
+        href="/6"
+      >
+        <img
+          alt="Abadango Cluster Princess"
+          src="https://rickandmortyapi.com/api/character/avatar/6.jpeg"
+        />
+      </a>
       <figcaption>
         <p>
           Abadango Cluster Princess
@@ -120,10 +144,14 @@ exports[`Rick and Morty Character container fetches a list of Rick and Morty cha
   </li>
   <li>
     <figure>
-      <img
-        alt="Abradolf Lincler"
-        src="https://rickandmortyapi.com/api/character/avatar/7.jpeg"
-      />
+      <a
+        href="/7"
+      >
+        <img
+          alt="Abradolf Lincler"
+          src="https://rickandmortyapi.com/api/character/avatar/7.jpeg"
+        />
+      </a>
       <figcaption>
         <p>
           Abradolf Lincler
@@ -139,10 +167,14 @@ exports[`Rick and Morty Character container fetches a list of Rick and Morty cha
   </li>
   <li>
     <figure>
-      <img
-        alt="Adjudicator Rick"
-        src="https://rickandmortyapi.com/api/character/avatar/8.jpeg"
-      />
+      <a
+        href="/8"
+      >
+        <img
+          alt="Adjudicator Rick"
+          src="https://rickandmortyapi.com/api/character/avatar/8.jpeg"
+        />
+      </a>
       <figcaption>
         <p>
           Adjudicator Rick
@@ -158,10 +190,14 @@ exports[`Rick and Morty Character container fetches a list of Rick and Morty cha
   </li>
   <li>
     <figure>
-      <img
-        alt="Agency Director"
-        src="https://rickandmortyapi.com/api/character/avatar/9.jpeg"
-      />
+      <a
+        href="/9"
+      >
+        <img
+          alt="Agency Director"
+          src="https://rickandmortyapi.com/api/character/avatar/9.jpeg"
+        />
+      </a>
       <figcaption>
         <p>
           Agency Director
@@ -177,10 +213,14 @@ exports[`Rick and Morty Character container fetches a list of Rick and Morty cha
   </li>
   <li>
     <figure>
-      <img
-        alt="Alan Rails"
-        src="https://rickandmortyapi.com/api/character/avatar/10.jpeg"
-      />
+      <a
+        href="/10"
+      >
+        <img
+          alt="Alan Rails"
+          src="https://rickandmortyapi.com/api/character/avatar/10.jpeg"
+        />
+      </a>
       <figcaption>
         <p>
           Alan Rails
@@ -196,10 +236,14 @@ exports[`Rick and Morty Character container fetches a list of Rick and Morty cha
   </li>
   <li>
     <figure>
-      <img
-        alt="Albert Einstein"
-        src="https://rickandmortyapi.com/api/character/avatar/11.jpeg"
-      />
+      <a
+        href="/11"
+      >
+        <img
+          alt="Albert Einstein"
+          src="https://rickandmortyapi.com/api/character/avatar/11.jpeg"
+        />
+      </a>
       <figcaption>
         <p>
           Albert Einstein
@@ -215,10 +259,14 @@ exports[`Rick and Morty Character container fetches a list of Rick and Morty cha
   </li>
   <li>
     <figure>
-      <img
-        alt="Alexander"
-        src="https://rickandmortyapi.com/api/character/avatar/12.jpeg"
-      />
+      <a
+        href="/12"
+      >
+        <img
+          alt="Alexander"
+          src="https://rickandmortyapi.com/api/character/avatar/12.jpeg"
+        />
+      </a>
       <figcaption>
         <p>
           Alexander
@@ -234,10 +282,14 @@ exports[`Rick and Morty Character container fetches a list of Rick and Morty cha
   </li>
   <li>
     <figure>
-      <img
-        alt="Alien Googah"
-        src="https://rickandmortyapi.com/api/character/avatar/13.jpeg"
-      />
+      <a
+        href="/13"
+      >
+        <img
+          alt="Alien Googah"
+          src="https://rickandmortyapi.com/api/character/avatar/13.jpeg"
+        />
+      </a>
       <figcaption>
         <p>
           Alien Googah
@@ -253,10 +305,14 @@ exports[`Rick and Morty Character container fetches a list of Rick and Morty cha
   </li>
   <li>
     <figure>
-      <img
-        alt="Alien Morty"
-        src="https://rickandmortyapi.com/api/character/avatar/14.jpeg"
-      />
+      <a
+        href="/14"
+      >
+        <img
+          alt="Alien Morty"
+          src="https://rickandmortyapi.com/api/character/avatar/14.jpeg"
+        />
+      </a>
       <figcaption>
         <p>
           Alien Morty
@@ -272,10 +328,14 @@ exports[`Rick and Morty Character container fetches a list of Rick and Morty cha
   </li>
   <li>
     <figure>
-      <img
-        alt="Alien Rick"
-        src="https://rickandmortyapi.com/api/character/avatar/15.jpeg"
-      />
+      <a
+        href="/15"
+      >
+        <img
+          alt="Alien Rick"
+          src="https://rickandmortyapi.com/api/character/avatar/15.jpeg"
+        />
+      </a>
       <figcaption>
         <p>
           Alien Rick
@@ -291,10 +351,14 @@ exports[`Rick and Morty Character container fetches a list of Rick and Morty cha
   </li>
   <li>
     <figure>
-      <img
-        alt="Amish Cyborg"
-        src="https://rickandmortyapi.com/api/character/avatar/16.jpeg"
-      />
+      <a
+        href="/16"
+      >
+        <img
+          alt="Amish Cyborg"
+          src="https://rickandmortyapi.com/api/character/avatar/16.jpeg"
+        />
+      </a>
       <figcaption>
         <p>
           Amish Cyborg
@@ -310,10 +374,14 @@ exports[`Rick and Morty Character container fetches a list of Rick and Morty cha
   </li>
   <li>
     <figure>
-      <img
-        alt="Annie"
-        src="https://rickandmortyapi.com/api/character/avatar/17.jpeg"
-      />
+      <a
+        href="/17"
+      >
+        <img
+          alt="Annie"
+          src="https://rickandmortyapi.com/api/character/avatar/17.jpeg"
+        />
+      </a>
       <figcaption>
         <p>
           Annie
@@ -329,10 +397,14 @@ exports[`Rick and Morty Character container fetches a list of Rick and Morty cha
   </li>
   <li>
     <figure>
-      <img
-        alt="Antenna Morty"
-        src="https://rickandmortyapi.com/api/character/avatar/18.jpeg"
-      />
+      <a
+        href="/18"
+      >
+        <img
+          alt="Antenna Morty"
+          src="https://rickandmortyapi.com/api/character/avatar/18.jpeg"
+        />
+      </a>
       <figcaption>
         <p>
           Antenna Morty
@@ -348,10 +420,14 @@ exports[`Rick and Morty Character container fetches a list of Rick and Morty cha
   </li>
   <li>
     <figure>
-      <img
-        alt="Antenna Rick"
-        src="https://rickandmortyapi.com/api/character/avatar/19.jpeg"
-      />
+      <a
+        href="/19"
+      >
+        <img
+          alt="Antenna Rick"
+          src="https://rickandmortyapi.com/api/character/avatar/19.jpeg"
+        />
+      </a>
       <figcaption>
         <p>
           Antenna Rick
@@ -367,10 +443,14 @@ exports[`Rick and Morty Character container fetches a list of Rick and Morty cha
   </li>
   <li>
     <figure>
-      <img
-        alt="Ants in my Eyes Johnson"
-        src="https://rickandmortyapi.com/api/character/avatar/20.jpeg"
-      />
+      <a
+        href="/20"
+      >
+        <img
+          alt="Ants in my Eyes Johnson"
+          src="https://rickandmortyapi.com/api/character/avatar/20.jpeg"
+        />
+      </a>
       <figcaption>
         <p>
           Ants in my Eyes Johnson

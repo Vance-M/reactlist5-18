@@ -18,7 +18,7 @@ CharactersList.propTypes = {
         image: PropTypes.string.isRequired,
         status: PropTypes.string.isRequired,
         species: PropTypes.string.isRequired,
-        id: PropTypes.number.isRequired,      
+        id: PropTypes.string.isRequired,      
     }))
 }
 
